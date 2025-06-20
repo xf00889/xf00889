@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" alt="Email">
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=xf00889&style=for-the-badge&color=6366f1&labelColor=20232a" alt="Profile Views" />
 </p>
 
 <!-- Animated Typing -->
