@@ -97,7 +97,7 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xf00889&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=xf00889&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -109,11 +109,6 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 <!-- Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=xf00889&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -129,13 +124,6 @@ current_focus = {
     "portfolio": "Expanding production-grade portfolio projects"
 }
 ```
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/xf00889/xf00889/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br/>
 
