@@ -26,8 +26,6 @@
 
 </div>
 
-<br/>
-
 ## 👨‍💻 Profile
 
 Full-Stack Developer specializing in backend architecture, API design, and scalable web applications. Experienced in building production-ready systems using Django and Laravel with modern frontend tooling.
@@ -96,13 +94,15 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=xf00889&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![](https://github-readme-stats.vercel.app/api?username=xf00889&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/><br/>
+<br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
+![](https://nirzak-streak-stats.vercel.app/?user=xf00889&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -128,5 +128,14 @@ current_focus = {
 ### 💬 Let's Connect and Build Something Amazing Together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
+
+</div>
+
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=xf00889&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
