@@ -96,6 +96,11 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 
 <div align="center">
 
+<!-- GitHub Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=xf00889&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
 
