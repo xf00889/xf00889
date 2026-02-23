@@ -96,19 +96,8 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=xf00889&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<br/><br/>
-
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
-
-<br/><br/>
-
-<!-- Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
