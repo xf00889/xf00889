@@ -87,15 +87,15 @@ I'm passionate about creating robust, efficient solutions that solve real-world 
 </p>
 
 ### Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+</div>
 
 ### Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xf00889&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=xf00889&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
 
 ---
 
