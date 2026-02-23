@@ -1,166 +1,89 @@
-<!-- Modern Header with Background -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hutchie&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&animation=fadeIn&descSize=20" alt="header" />
 </div>
 
-<!-- Quick Links with Rounded Corners -->
+<!-- Contact Links -->
 <p align="center">
   <a href="https://www.facebook.com/jubyneil.valiao.7/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=20232a" alt="Facebook">
   </a>
   &nbsp;
-  <a href=https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
+  <a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:hutchiejn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" alt="Email">
   </a>
-  <a href="https://portfolio-hutchie.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github">
-  </a>
   &nbsp;
+  <a href="https://portfolio-hutchie.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github&labelColor=20232a">
+  </a>
 </p>
 
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Problem+Solver;Passionate+Coder;Continuous+Learner" alt="Typing SVG" />
-</p>
+---
 
-<br>
+## About Me
 
-<!-- About Me Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/U3y0rIA9wq3EQ/giphy.gif" width="30" alt="wave"> 
-    <b>About Me</b>
-  </h2>
-</div>
+Full-stack developer focused on building scalable, maintainable, and user-centric web applications.  
+My work emphasizes backend architecture, clean API design, and practical frontend implementation.
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <ul>
-        <li>🔭 I'm an aspiring developer passionate about building intuitive web applications and software solutions</li>
-        <li>🌱 I'm currently enhancing my skills in <b>full-stack development</b></li>
-        <li>💼 Focused on creating efficient, scalable, and user-friendly applications</li>
-        <li>🚀 Always exploring new technologies and frameworks to improve my development workflow</li>
-        <li>📚 Continuously learning through hands-on projects and real-world problem solving</li>
-        <li>🤝 Open to collaborating on interesting projects and innovative ideas</li>
-      </ul>
-    </td>
-    <td width="30%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
-    </td>
-  </tr>
-</table>
+**Core Focus Areas**
 
-<br>
+- Designing RESTful APIs and backend systems  
+- Building full-stack applications with Django and Laravel  
+- Implementing secure authentication and authorization workflows  
+- Database schema design and query optimization  
+- Writing clean, maintainable, production-ready code  
 
-<!-- Learning Journey Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="30" alt="brain"> 
-    <b>My Learning Journey</b>
-  </h2>
-</div>
+---
 
-<!-- Web Development -->
-<details open>
-  <summary><b>🌐 Web Development</b></summary>
-  <ul>
-    <li>Advanced Django & Laravel frameworks</li>
-    <li>Modern responsive design principles</li>
-  </ul>
-</details>
-
-<!-- Security & Infrastructure -->
-<details open>
-  <summary><b>🔐 Security & Infrastructure</b></summary>
-  <ul>
-    <li>Authentication systems</li>
-    <li>Cloud deployment</li>
-  </ul>
-</details>
-
-<!-- Data & Integration -->
-<details open>
-  <summary><b>🗃️ Data & Integration</b></summary>
-  <ul>
-    <li>Database architecture and optimization</li>
-    <li>API development and integration</li>
-  </ul>
-</details>
-
-<br>
-
-<!-- Tech Stack -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35" alt="tech"> 
-    <b>Tech Stack</b>
-  </h2>
-</div>
+## Technical Competencies
 
 ### Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a" alt="PHP" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=20232a" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232a" alt="CSS3" />
-</p>
+- Python  
+- PHP  
+- JavaScript  
+- HTML5  
+- CSS3  
 
-### Frameworks & Libraries
+### Frameworks & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=20232a" alt="Django" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=20232a" alt="Vite" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=20232a" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=20232a" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=20232a" alt="jQuery" />
-  
-</p>
+- Django  
+- Laravel  
+- Vite  
+- Tailwind CSS  
+- Bootstrap  
+- jQuery  
 
-<br>
+### Architecture & Infrastructure
 
-<!-- Current Projects -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif" width="30" alt="rocket"> 
-    <b>Current Projects</b>
-  </h2>
-</div>
+- REST API development  
+- Authentication systems (session, token-based)  
+- Database design and normalization  
+- Cloud deployment fundamentals  
+- MVC architecture patterns  
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>💻 Full-Stack Applications</h3>
-      <p>Expanding my portfolio with comprehensive web solutions</p>
-    </td>
-    <td align="center">
-      <h3>🔧 Backend Architecture</h3>
-      <p>Deepening knowledge of API design and system structure</p>
-    </td>
-    <td align="center">
-      <h3>🎨 UI/UX Implementation</h3>
-      <p>Creating intuitive and responsive user experiences</p>
-    </td>
-  </tr>
-</table>
+---
 
-<br>
+## Current Focus
 
-<!-- Quote -->
-<div align="center">
-  <i>"Every expert was once a beginner. The key is to never stop learning."</i>
-</div>
+- Advancing backend system design and service architecture  
+- Improving API performance and scalability  
+- Strengthening frontend integration workflows  
+- Expanding portfolio with production-ready applications  
 
-<br>
+---
 
-<!-- Footer -->
+## Development Philosophy
+
+I prioritize clarity, maintainability, and performance.  
+Each project is an opportunity to refine architecture decisions, improve code quality, and deepen system-level understanding.
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer" />
 </div>
