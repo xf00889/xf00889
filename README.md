@@ -1,32 +1,40 @@
 <div align="center">
 
-# Hi there, I'm Hutchie 👋
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hutchie&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&animation=twinkling&descSize=22" alt="header" />
 
-### Full-Stack Developer specializing in backend architecture, API design, and scalable web applications
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Architecture+Specialist;API+Design+%26+Development;Building+Scalable+Web+Applications;Django+%7C+Laravel+%7C+Modern+Stack" alt="Typing SVG" />
 
-<br>
+<br/>
 
+<!-- Contact Badges -->
 <a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" />
 </a>
 <a href="mailto:hutchiejn@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" />
 </a>
 <a href="https://portfolio-hutchie.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&labelColor=20232a" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&labelColor=20232a" />
 </a>
+
+<br/><br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=xf00889&style=for-the-badge&color=58A6FF&labelColor=20232a" alt="Profile views" />
 
 </div>
 
-<br>
+<br/>
 
-## 💫 Profile
+## 👨‍💻 Profile
 
 Full-Stack Developer specializing in backend architecture, API design, and scalable web applications. Experienced in building production-ready systems using Django and Laravel with modern frontend tooling.
 
 I focus on clean architecture, performance optimization, and maintainable codebases.
 
-<br>
+<br/>
 
 ## 🎯 Core Expertise
 
@@ -34,7 +42,7 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 <tr>
 <td width="33%" valign="top">
 
-**Backend Engineering**
+### Backend Engineering
 - RESTful API development
 - Authentication and authorization systems
 - Database design and query optimization
@@ -43,7 +51,7 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 </td>
 <td width="33%" valign="top">
 
-**Frontend Integration**
+### Frontend Integration
 - Component-driven UI development
 - Responsive design implementation
 - API consumption and state handling
@@ -51,7 +59,7 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 </td>
 <td width="33%" valign="top">
 
-**Infrastructure**
+### Infrastructure
 - Deployment workflows
 - Environment configuration
 - Application performance fundamentals
@@ -60,73 +68,83 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 </tr>
 </table>
 
-<br>
+<br/>
 
 ## 🛠️ Technology Stack
 
-### Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232a" alt="CSS3"/>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232a)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232a)
 
 ### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=20232a)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=20232a)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=20232a)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=20232a)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=20232a" alt="Django"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=20232a" alt="Vite"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=20232a" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=20232a" alt="Bootstrap"/>
-</p>
+</div>
 
-<br>
+<br/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
-### Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xf00889&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-### Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
 
-<br>
+<br/><br/>
 
-## � Current Focus
+<!-- Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
-- Designing scalable backend services
-- Improving system architecture patterns
-- Optimizing API performance
-- Expanding production-grade portfolio projects
+<br/><br/>
 
-<br>
+<!-- Trophy Stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=xf00889&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+```python
+current_focus = {
+    "backend": "Designing scalable backend services",
+    "architecture": "Improving system architecture patterns",
+    "performance": "Optimizing API performance",
+    "portfolio": "Expanding production-grade portfolio projects"
+}
+```
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xf00889/xf00889/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+---
 
 <div align="center">
   
-### � Let's Connect
+### 💬 Let's Connect and Build Something Amazing Together!
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a)](https://www.linkedin.com/in/juby-neil-valiao-084b40237/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a)](mailto:hutchiejn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&labelColor=20232a)](https://portfolio-hutchie.onrender.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=xf00889&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
 
 </div>
