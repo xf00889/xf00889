@@ -81,20 +81,14 @@ I'm passionate about creating robust, efficient solutions that solve real-world 
 
 ## 📊 GitHub Activity
 
-### Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-### Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=xf00889&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=xf00889&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
