@@ -1,136 +1,132 @@
 <div align="center">
 
-# 👋 Hi, I'm Juby Neil Valiao
+# Hi there, I'm Hutchie 👋
 
-### Full-Stack Developer | Backend Specialist | System Architect
+### Full-Stack Developer specializing in backend architecture, API design, and scalable web applications
 
-<p>
-  <a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hutchiejn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-hutchie.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" alt="LinkedIn"/>
+</a>
+<a href="mailto:hutchiejn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" alt="Email"/>
+</a>
+<a href="https://portfolio-hutchie.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&labelColor=20232a" alt="Portfolio"/>
+</a>
 
 </div>
 
----
+<br>
 
-## 🎯 About Me
+## 💫 Profile
 
-I build scalable web applications with a focus on clean architecture and performance. My expertise lies in backend engineering, API design, and creating production-ready systems that solve real-world problems.
+Full-Stack Developer specializing in backend architecture, API design, and scalable web applications. Experienced in building production-ready systems using Django and Laravel with modern frontend tooling.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Juby Neil Valiao"
-        self.role = "Full-Stack Developer"
-        self.focus = ["Backend Architecture", "API Design", "System Optimization"]
-        self.currently_learning = ["Advanced Django Patterns", "Cloud Infrastructure"]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+I focus on clean architecture, performance optimization, and maintainable codebases.
 
-me = Developer()
-me.say_hi()
-```
+<br>
 
----
-
-## 🛠️ Tech Stack
+## 🎯 Core Expertise
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="33%" valign="top">
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-**Specialties:**
-- RESTful API Development
-- Authentication & Authorization
-- Database Design & Optimization
-- MVC Architecture
+**Backend Engineering**
+- RESTful API development
+- Authentication and authorization systems
+- Database design and query optimization
+- MVC and service-layer architecture
 
 </td>
-<td valign="top" width="50%">
+<td width="33%" valign="top">
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Frontend Integration**
+- Component-driven UI development
+- Responsive design implementation
+- API consumption and state handling
 
-**Tools:**
-- Vite
-- Bootstrap
-- Responsive Design
-- Component Architecture
+</td>
+<td width="33%" valign="top">
+
+**Infrastructure**
+- Deployment workflows
+- Environment configuration
+- Application performance fundamentals
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📊 GitHub Analytics
+## 🛠️ Technology Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232a" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232a" alt="CSS3"/>
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=20232a" alt="Django"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=20232a" alt="Vite"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=20232a" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=20232a" alt="Bootstrap"/>
+</p>
+
+<br>
+
+## 📊 GitHub Activity
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<br>
+
+## � Current Focus
+
+- Designing scalable backend services
+- Improving system architecture patterns
+- Optimizing API performance
+- Expanding production-grade portfolio projects
+
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xf00889&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xf00889&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🔨 Building scalable backend services with Django
-- 📚 Deepening knowledge in system design patterns
-- ⚡ Optimizing API performance and database queries
-- 🌱 Expanding my portfolio with production-grade projects
-
----
-
-## 💡 Core Principles
-
-```javascript
-const myApproach = {
-  code: ["Clean", "Maintainable", "Scalable"],
-  architecture: ["SOLID Principles", "Design Patterns", "Best Practices"],
-  mindset: ["Problem Solver", "Continuous Learner", "Team Player"],
-  goal: "Building software that makes a difference"
-};
-```
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss tech, explore a project idea, or just say hi, feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juby-neil-valiao-084b40237/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hutchiejn@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hutchie.onrender.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xf00889&color=58a6ff&style=flat&label=Profile+Views" alt="Profile Views"/>
   
-  <p><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
+### � Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a)](https://www.linkedin.com/in/juby-neil-valiao-084b40237/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a)](mailto:hutchiejn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&labelColor=20232a)](https://portfolio-hutchie.onrender.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=xf00889&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
