@@ -104,6 +104,10 @@ I focus on clean architecture, performance optimization, and maintainable codeba
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<br/>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
+
 </div>
 
 <br/>
