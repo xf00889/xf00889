@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,ts,html,css,tailwind,bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,html,css,tailwind,bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark&perline=8" />
 
 </div>
 
