@@ -1,145 +1,79 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hutchie&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&animation=twinkling&descSize=22" alt="header" />
+<sub><strong>xf00889 / README.md</strong></sub>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Architecture+Specialist;API+Design+%26+Development;Building+Scalable+Web+Applications;Django+%7C+Laravel+%7C+Modern+Stack" alt="Typing SVG" />
+# 👋 Hi there! I'm Hutchie
+### [@xf00889](https://github.com/xf00889) | [Portfolio](https://myportfoliowebsite-rose.vercel.app) | [LinkedIn](https://www.linkedin.com/in/juby-neil-valiao-084b40237/)
+
+`Self-Taught Full-Stack & Backend Developer | Laravel • Django • Python • PHP`
 
 <br/>
 
-<!-- Contact Badges -->
-<a href="https://www.linkedin.com/in/juby-neil-valiao-084b40237/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" />
-</a>
-<a href="mailto:hutchiejn@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" />
-</a>
-<a href="https://myportfoliowebsite-rose.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&labelColor=20232a" />
-</a>
-
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=xf00889&style=for-the-badge&color=58A6FF&labelColor=20232a" alt="Profile views" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,ts,html,css,tailwind,bootstrap,mysql,postgresql,docker,git,github,linux,vscode,vite&theme=dark&perline=9" />
 
 </div>
 
-## 👨‍💻 Profile
+---
 
-Full-Stack Developer specializing in backend architecture, API design, and scalable web applications. Experienced in building production-ready systems using Django and Laravel with modern frontend tooling.
-
-I focus on clean architecture, performance optimization, and maintainable codebases.
-
-<br/>
-
-## 🎯 Core Expertise
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### Backend Engineering
-- RESTful API development
-- Authentication and authorization systems
-- Database design and query optimization
-- MVC and service-layer architecture
-
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xf00889&theme=github_dark" />
 </td>
-<td width="33%" valign="top">
-
-### Frontend Integration
-- Component-driven UI development
-- Responsive design implementation
-- API consumption and state handling
-
-</td>
-<td width="33%" valign="top">
-
-### Infrastructure
-- Deployment workflows
-- Environment configuration
-- Application performance fundamentals
-
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xf00889&theme=github_dark" />
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=20232a)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=20232a)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232a)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232a)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232a)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=20232a)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=20232a)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=20232a)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=20232a)
-
 </div>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=xf00889&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=xf00889&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xf00889&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br/>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=xf00889&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)
-
-</div>
-
-<br/>
-
-## 🎯 Current Focus
-
-```python
-current_focus = {
-    "backend": "Designing scalable backend services",
-    "architecture": "Improving system architecture patterns",
-    "performance": "Optimizing API performance",
-    "portfolio": "Expanding production-grade portfolio projects"
-}
-```
-
-<br/>
-
----
-
-<div align="center">
-  
-### 💬 Let's Connect and Build Something Amazing Together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" />
-
-</div>
-
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=xf00889&icon=0&color=0)](https://visitcount.itsvg.in)
+### About Me
+
+Backend-focused developer building clean, scalable web applications with strong attention to architecture, maintainability, and API design.
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>Backend</strong><br/><br/>
+REST APIs<br/>
+Authentication<br/>
+Database Design<br/>
+System Architecture
+</td>
+<td align="center" width="33%">
+<strong>Frontend</strong><br/><br/>
+Blade / Templates<br/>
+Responsive UI<br/>
+TailwindCSS<br/>
+Modern Tooling
+</td>
+<td align="center" width="33%">
+<strong>Workflow</strong><br/><br/>
+Git & GitHub<br/>
+Docker Basics<br/>
+Linux Environment<br/>
+Deployment Practice
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=xf00889&style=flat-square&color=58A6FF&label=Profile+Views" />
 
 </div>
