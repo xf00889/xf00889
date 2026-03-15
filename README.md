@@ -9,7 +9,13 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,html,css,tailwind,bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark&perline=8" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,html,css,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark" />
+</p>
 
 </div>
 
@@ -36,7 +42,8 @@
 
 ### About Me
 
-Backend-focused developer building clean, scalable web applications with strong attention to architecture, maintainability, and API design.
+I'm a backend-focused full-stack developer who builds clean, scalable web applications with Laravel and Django.  
+I focus on strong architecture, reliable API development, solid database design, and writing maintainable code that scales with real-world projects.
 
 </div>
 
