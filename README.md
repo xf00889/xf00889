@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,ts,html,css,tailwind,bootstrap,mysql,postgresql,docker,git,github,linux,vscode,vite&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,php,laravel,django,js,ts,html,css,tailwind,bootstrap,mysql,postgresql,git,github,vscode,vite&theme=dark&perline=8" />
 
 </div>
 
@@ -61,8 +61,8 @@ Modern Tooling
 <td align="center" width="33%">
 <strong>Workflow</strong><br/><br/>
 Git & GitHub<br/>
-Docker Basics<br/>
-Linux Environment<br/>
+Version Control<br/>
+Editor Setup<br/>
 Deployment Practice
 </td>
 </tr>
