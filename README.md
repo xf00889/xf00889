@@ -45,35 +45,11 @@
 I'm a backend-focused full-stack developer who builds clean, scalable web applications with Laravel and Django.  
 I focus on strong architecture, reliable API development, solid database design, and writing maintainable code that scales with real-world projects.
 
-</div>
+<br/>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>Backend</strong><br/><br/>
-REST APIs<br/>
-Authentication<br/>
-Database Design<br/>
-System Architecture
-</td>
-<td align="center" width="33%">
-<strong>Frontend</strong><br/><br/>
-Blade / Templates<br/>
-Responsive UI<br/>
-TailwindCSS<br/>
-Modern Tooling
-</td>
-<td align="center" width="33%">
-<strong>Workflow</strong><br/><br/>
-Git & GitHub<br/>
-Version Control<br/>
-Editor Setup<br/>
-Deployment Practice
-</td>
-</tr>
-</table>
+**Backend:** REST APIs, authentication, database design, and system architecture  
+**Frontend:** Blade templates, responsive UI, TailwindCSS, and modern tooling  
+**Workflow:** Git & GitHub, version control, editor setup, and deployment practice
 
 </div>
 
